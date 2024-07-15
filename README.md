@@ -18,14 +18,14 @@ To access a deployed version of the project, click on this [LINK](https://where-
 
 Some screenshots: 
 
-<img src="https://github.com/user-attachments/assets/436c2f87-7983-445f-8473-f30d0f900238" alt="Screenshot" width=350 height=600>
 <img src="https://github.com/user-attachments/assets/ef35090f-29bb-4d93-acba-3aafd1de1d91" alt="Screenshot" width=350 height=600>
-<img src="https://github.com/user-attachments/assets/de8546a8-4596-4e12-8d53-d0bb8db38460" alt="Screenshot" width=350 height=600>
+<img src="https://github.com/user-attachments/assets/436c2f87-7983-445f-8473-f30d0f900238" alt="Screenshot" width=350 height=600>
 <img src="https://github.com/user-attachments/assets/a92e3c23-74fd-45e8-8e6f-134c3dd8187f" alt="Screenshot" width=350 height=600>
-<img src="https://github.com/user-attachments/assets/c851f4dd-f9a0-40b4-9194-1013f0c8293f" alt="Screenshot" width=1224 height=480>
-<img src="https://github.com/user-attachments/assets/c9aac6eb-1f52-4baa-a8fd-167391d33954" alt="Screenshot" width=1224 height=480>
+<img src="https://github.com/user-attachments/assets/de8546a8-4596-4e12-8d53-d0bb8db38460" alt="Screenshot" width=350 height=600>
 <img src="https://github.com/user-attachments/assets/1f80b18d-da6b-4ec3-87ad-6b3084b088ab" alt="Screenshot" width=1224 height=480>
 <img src="https://github.com/user-attachments/assets/47988b2a-076d-4f73-8e68-4ae4abcd45bc" alt="Screenshot" width=1224 height=480>
+<img src="https://github.com/user-attachments/assets/c851f4dd-f9a0-40b4-9194-1013f0c8293f" alt="Screenshot" width=1224 height=480>
+<img src="https://github.com/user-attachments/assets/c9aac6eb-1f52-4baa-a8fd-167391d33954" alt="Screenshot" width=1224 height=480>
 
 ## Available Scripts
 
