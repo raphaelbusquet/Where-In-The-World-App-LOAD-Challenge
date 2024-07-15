@@ -3,7 +3,7 @@
 This project was a challenge made for [LOAD](https://www.load.digital/).
 
 ## Project Description
-The project consists of a front-end application that fetch data from an [API](https://restcountries.com/) and displays this data on a detailed page for each country.
+The project consists of a front-end application that fetches data from an [API](https://restcountries.com/) and displays this data on a detailed page for each country.
 
 [ReactJS](https://react.dev/) was used as the framework, [React Router Dom](https://reactrouter.com/en/main) for the routes, [ReactIcon](https://react-icons.github.io/react-icons/) for the icons, and [ReactSpinners](https://www.davidhu.io/react-spinners/) for the loading effect, among others.
 
