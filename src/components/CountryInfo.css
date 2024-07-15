@@ -1,0 +1,90 @@
+.country__info__wrapper {
+    padding: 50px;
+}
+
+.button {
+    margin-bottom: 30px;
+    display: inline-block;
+}
+
+.country__info__container {
+    margin-top: 20px;
+}
+
+.country__info__container span {
+    font-weight: 200;
+    color: var(--text-color);
+}
+
+.country__info-img {
+    margin-bottom: 30px;
+}
+
+.country__info h3{
+    margin-bottom: 20px;
+}
+
+.country__info-main {
+    margin-bottom: 30px;
+}
+
+.country__info-main h5 {
+    margin-bottom: 12px;
+}
+
+.country__info-more {
+    margin-bottom: 30px;
+}
+
+.country__info-more h5 {
+    margin-bottom: 12px;
+} 
+
+.borders {
+    display: flex;
+    gap: .5rem;
+    flex-wrap: wrap
+}
+
+.borders p {
+    background-color: var(--article-color);
+    box-shadow: var(--box-shadow);
+    border-radius: 3px;
+    padding: 5px;
+    width: 80px;
+}
+
+.borders p span {
+    padding-left: 8px;
+}
+
+@media (min-width: 768px) {
+    .country__info__container {
+        display: flex;
+        justify-content: space-between;
+        gap: 1rem;
+    }
+
+    .country__info-main {
+        display: flex;
+        gap: 2.5rem;
+        align-items: center;
+
+    }
+}
+
+@media (min-width: 992px) {
+    .country__info__container {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .country__info-main {
+        display: flex;
+        gap: 2.5rem;
+        align-items: center;
+
+    }
+}
+
+
